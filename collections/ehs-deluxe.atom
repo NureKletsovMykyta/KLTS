@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tearzera.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tearzera.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tearzera.store/collections/ehs-deluxe.atom"/>
+  <title>TEARZ</title>
+  <updated>2025-03-05T20:52:52+02:00</updated>
+  <author>
+    <name>TEARZ</name>
+  </author>
+  <entry>
+    <id>https://tearzera.store/products/7414840066138</id>
+    <published>2025-03-05T20:52:52+02:00</published>
+    <updated>2025-03-05T20:52:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/tearz-hoodie-o-c-b"/>
+    <title>TEARZ HOODIE “O.C.B.”</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/62B32B1B-2B26-40C1-8990-66C8D8712CCB.jpg?v=1743892355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><pre class="tw-data-text tw-text-large tw-ta" data-placeholder="Переклад" id="tw-target-text" data-ved="2ahUKEwjV9qSIzvOLAxXSHxAIHSixANQQ3ewLegQICBAV" dir="ltr" aria-label="Перекладений текст: *100% бавовна
+*Тканина товщиною 450 г/кв.м
+*шовкографія
+* укорочений крій
+*гумки на манжетах"><span class="Y2IQFc" lang="uk">*100% бавовна
+*Тканина товщиною 450 г/кв.м
+*шовкографія
+* укорочений крій
+*гумки на манжетах</span></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7414840066138</id>
+      <title>S</title>
+      <s:price currency="UAH">3300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414840066138</id>
+      <title>M</title>
+      <s:price currency="UAH">3300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414840066138</id>
+      <title>L</title>
+      <s:price currency="UAH">3300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tearzera.store/products/7414833971290</id>
+    <published>2025-03-05T20:24:46+02:00</published>
+    <updated>2025-03-05T20:24:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/hoodie-eternal-soul"/>
+    <title>HOODIE “ETERNAL+SOUL”</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/1652633787_photo_1745518555933_ps.png?v=1745497056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*100% бавовна</span><br><span>*470гсм тринитка</span><br><span>*принт DTF</span><br><span>*oversized cropped fit</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7414833971290</id>
+      <title>S</title>
+      <s:price currency="UAH">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414833971290</id>
+      <title>M</title>
+      <s:price currency="UAH">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414833971290</id>
+      <title>L</title>
+      <s:price currency="UAH">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tearzera.store/products/7414827712602</id>
+    <published>2025-03-05T19:55:08+02:00</published>
+    <updated>2025-03-05T19:55:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/ehs-deluxe-flared-jeans"/>
+    <title>EHS DELUXE FLARED JEANS</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/1A90FF75-80C8-41A8-80AE-69C95FC6F544.jpg?v=1743891906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*100% бавона</span><br><span>*цупкий джинс 500гсм</span><br><span>*flared fit</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7414827712602</id>
+      <title>S</title>
+      <s:price currency="UAH">2950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414827712602</id>
+      <title>XS</title>
+      <s:price currency="UAH">2950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414827712602</id>
+      <title>M</title>
+      <s:price currency="UAH">2950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414827712602</id>
+      <title>L</title>
+      <s:price currency="UAH">2950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414827712602</id>
+      <title>XL</title>
+      <s:price currency="UAH">2950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tearzera.store/products/7414826926170</id>
+    <published>2025-03-05T19:50:58+02:00</published>
+    <updated>2025-03-05T19:50:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/ehs-deluxe-flared-destroyer-jeans"/>
+    <title>EHS DELUXE FLARED “DESTROYER” JEANS</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/IMG_2374-removebg-preview.png?v=1741196910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*100% бавона</span><br><span>*цупкий джинс 500гсм</span><br><span>*flared fit</span><br><span>*дістресс</span><br><span>*підкалди під дістресс</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7414826926170</id>
+      <title>S</title>
+      <s:price currency="UAH">3450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414826926170</id>
+      <title>XS</title>
+      <s:price currency="UAH">3450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414826926170</id>
+      <title>M</title>
+      <s:price currency="UAH">3450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414826926170</id>
+      <title>L</title>
+      <s:price currency="UAH">3450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7414826926170</id>
+      <title>XL</title>
+      <s:price currency="UAH">3450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tearzera.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tearzera.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tearzera.store/collections/summer-2025-tearz.atom"/>
+  <title>TEARZ</title>
+  <updated>2025-06-13T16:55:46+03:00</updated>
+  <author>
+    <name>TEARZ</name>
+  </author>
+  <entry>
+    <id>https://tearzera.store/products/7494804668506</id>
+    <published>2025-06-13T16:55:46+03:00</published>
+    <updated>2025-06-13T16:55:46+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/t-shirt-sanandreas-tearz-destroy"/>
+    <title>T-SHIRT “SanAndreas” TEARZ DESTROY</title>
+    <s:type></s:type>
+    <s:vendor>TEARZ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/1652633787_photo_1749846441269-removebg-preview.png?v=1749822822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TEARZ<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>*100% бавовна<br>*принт шовкографія<br>*необроблений низ<br>*кроп фіт</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7494804668506</id>
+      <title>S</title>
+      <s:price currency="UAH">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494804668506</id>
+      <title>M</title>
+      <s:price currency="UAH">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494804668506</id>
+      <title>L</title>
+      <s:price currency="UAH">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tearzera.store/products/7494803259482</id>
+    <published>2025-06-13T16:53:19+03:00</published>
+    <updated>2025-06-13T16:53:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/t-shirt-sanandreas"/>
+    <title>T-SHIRT “SanAndreas” TEARZ</title>
+    <s:type></s:type>
+    <s:vendor>TEARZ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/1652633787_photo_1749846391191-removebg-preview.png?v=1749822680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TEARZ<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*100% бавовна</span><br><span>*принт шовкографія</span><br><span>*необроблений низ</span><br><span>*кроп фіт</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7494803259482</id>
+      <title>S</title>
+      <s:price currency="UAH">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494803259482</id>
+      <title>M</title>
+      <s:price currency="UAH">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494803259482</id>
+      <title>L</title>
+      <s:price currency="UAH">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tearzera.store/products/7494801981530</id>
+    <published>2025-06-13T16:50:38+03:00</published>
+    <updated>2025-06-13T16:50:38+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/double-waisted-black-sweatshorts"/>
+    <title>DOUBLE WAISTED BLACK SWEATSHORTS TEARZ</title>
+    <s:type></s:type>
+    <s:vendor>TEARZ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/1652633787_photo_1749846261083-removebg-preview.png?v=1749822498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TEARZ<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*100% бавовна</span><br><span>*double-waits</span><br><span>*wide fit</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7494801981530</id>
+      <title>XS</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494801981530</id>
+      <title>S</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494801981530</id>
+      <title>M</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494801981530</id>
+      <title>L</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494801981530</id>
+      <title>XL</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tearzera.store/products/7494800638042</id>
+    <published>2025-06-13T16:47:35+03:00</published>
+    <updated>2025-06-13T16:47:35+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://tearzera.store/products/double-waisted-grey-sweatshorts"/>
+    <title>DOUBLE WAISTED GREY SWEATSHORTS TEARZ</title>
+    <s:type></s:type>
+    <s:vendor>TEARZ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/2134/7930/files/IMG_5118-removebg-preview_1.png?v=1749822163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TEARZ<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>*100% бавовна</span><br><span>*double-waist</span><br><span>*wide fit</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tearzera.store/products/7494800638042</id>
+      <title>S</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494800638042</id>
+      <title>XS</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494800638042</id>
+      <title>M</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494800638042</id>
+      <title>L</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tearzera.store/products/7494800638042</id>
+      <title>XL</title>
+      <s:price currency="UAH">2550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
